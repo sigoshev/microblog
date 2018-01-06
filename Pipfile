@@ -9,6 +9,7 @@ name = "pypi"
 
 flask = "*"
 gunicorn = "*"
+flask-wtf = "*"
 
 
 [dev-packages]
